@@ -1,0 +1,101 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\rnraf\\Desktop\\Estagio\\sdks\\EasyAR4.0\\HelloARSurfaceTracking\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\rnraf\\Desktop\\Estagio\\sdks\\EasyAR4.0\\HelloARSurfaceTracking\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,1,3",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "118,12,69",
+                        "endColumns": "48,55,48",
+                        "endOffsets": "166,67,117"
+                    },
+                    "to": {
+                        "startLines": "7,8,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "313,366,426",
+                        "endColumns": "52,59,52",
+                        "endOffsets": "361,421,474"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rnraf\\Desktop\\Estagio\\sdks\\EasyAR4.0\\HelloARSurfaceTracking\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rnraf\\Desktop\\Estagio\\sdks\\EasyAR4.0\\HelloARSurfaceTracking\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,146",
+                        "endColumns": "57,55",
+                        "endOffsets": "141,197"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "199,257",
+                        "endColumns": "57,55",
+                        "endOffsets": "252,308"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rnraf\\Desktop\\Estagio\\sdks\\EasyAR4.0\\HelloARSurfaceTracking\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "273"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "479",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "736"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\rnraf\\Desktop\\Estagio\\sdks\\EasyAR4.0\\HelloARSurfaceTracking\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\rnraf\\Desktop\\Estagio\\sdks\\EasyAR4.0\\HelloARSurfaceTracking\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

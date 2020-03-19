@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Jan 27 15:57:40 GMT 2020
+1.base=C\:\\Users\\rnraf\\Desktop\\Estagio\\sdks\\EasyAR4.0\\HelloARSurfaceTracking\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.path=lib/armeabi-v7a/libEasyAR.so
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\rnraf\\Desktop\\Estagio\\sdks\\EasyAR4.0\\HelloARSurfaceTracking\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=lib/arm64-v8a/libEasyAR.so
+0.set=NATIVE_RESOURCE
+0.base=C\:\\Users\\rnraf\\Desktop\\Estagio\\sdks\\EasyAR4.0\\HelloARSurfaceTracking\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.baseType=DIRECTORY
+1.path=classes.dex
