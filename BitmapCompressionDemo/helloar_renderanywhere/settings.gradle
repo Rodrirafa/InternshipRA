@@ -1,0 +1,2 @@
+include ':app', ':libwebrtc_19324'
+rootProject.name='helloar_renderanywhere'
